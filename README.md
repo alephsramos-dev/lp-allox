@@ -1,4 +1,4 @@
-[# Landing Page Treino - Allox
+# Landing Page Treino - Allox
 
 Página estática criada para **treinar** meu HTML e CSS.
 
